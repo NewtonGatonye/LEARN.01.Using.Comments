@@ -32,5 +32,3 @@ Console.WriteLine("The " +
  * c: Doom
  * d: version
  */
-
-
